@@ -13,7 +13,7 @@ install.packages("remotes") #Run only once
 remotes::install_github("smmurphy/convenience") #Run only once
 library(convenience)
 
-set.seed(2) # This is set for the first week, change according to the week
+set.seed(1) # This is set for the first week, change according to the week
 
 participants <- c("Arna Björt", "Denis", "Vala","Ian", "Ingeborg", 
             "Inga Svala", "Ingvild", "Isabel", "Laura", "Marteinn",
