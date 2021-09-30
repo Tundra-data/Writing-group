@@ -17,7 +17,7 @@ set.seed(1) # This is set for the first week, change according to the week
 
 participants <- c("Arna Björt", "Denis", "Vala","Ian", "Ingeborg", 
             "Inga Svala", "Ingvild", "Isabel", "Laura", "Marteinn",
-            "Mathilde", "Noemie")
+            "Mathilde", "Noemie", "Sumjee")
 
 randomPairs(list = participants, lname = "You are", rname = "Send to")
 
